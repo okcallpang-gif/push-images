@@ -1,5 +1,7 @@
 # 블로그 원고와 사진 모음
 
+[미발행 원고 썸네일 4종 미리보기](thumbnails) · [썸네일 전체 ZIP 받기](https://github.com/okcallpang-gif/push-images/raw/refs/heads/main/blog-drafts/2026-10-23/unpublished-thumbnails.zip)
+
 [김정은 사망설 썸네일 PNG 받기](https://github.com/okcallpang-gif/push-images/raw/refs/heads/main/blog-drafts/2026-10-23/C1/thumbnail.png)
 
 원고를 먼저 작성·검토하고 TXT와 사진을 GitHub에 보관한 뒤, 요청받은 글을 네이버에 임시저장합니다. 발행은 사용자가 직접 진행합니다.

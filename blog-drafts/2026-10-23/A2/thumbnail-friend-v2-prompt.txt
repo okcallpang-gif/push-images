@@ -1,0 +1,8 @@
+Use case: text-localization / identity-preserve.
+Edit target: the supplied existing square Korean entertainment blog thumbnail featuring singer Hwang Yunseong. Create ONE final square thumbnail for a friendly fan's Naver blog article about his friend sending video encouragement in the '내친소' segment of 트롯남녀 데스매치.
+Keep the same recognizable singer identity, natural facial features, beige jacket, microphone, blue concert bokeh backdrop, polished photographic editorial style, and bold mobile-readable Korean typography. Preserve his face unobscured; do not add another real person.
+Completely REMOVE all previous lettering, including the old answer '이찬원' and old song-title lettering. Replace the text design with ONLY these exact Korean lines:
+Small header: "트롯남녀 데스매치"
+Huge main headline first line: "황윤성의 친구는"
+Huge main headline second line: "누구?"
+The main question is the focal point. Use bright yellow and white high contrast lettering on a deep navy brushstroke area in the lower half; make '누구?' exceptionally large with one tasteful red accent. Keep singer face clearly visible above the headline, add a subtle graphic question-mark motif in available blue background if useful, and keep comfortable 6% edge padding. Energetic curious entertainment-show mood, warm friendship, no crime/scandal/death mood, no sensational false reaction, no quotation marks suggesting a spoken quote, no extra copy, no watermark, no fabricated logo. Crisp Korean spelling, balanced spacing, readable at a small thumbnail size. Opaque square background.

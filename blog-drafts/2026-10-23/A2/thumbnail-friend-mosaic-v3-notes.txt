@@ -1,0 +1,16 @@
+제작 방식: 내장 image_gen 이미지 편집
+참고 사진 출처: MBN 홈페이지
+편집: 황윤성 옆에 이찬원 방송 사진을 배치하고 이찬원 얼굴만 모자이크 처리
+캡션 표기: AI 제작·편집 · 참고 사진 출처: MBN 홈페이지
+파일: A2_황윤성_친구모자이크_v3.png
+
+제작 프롬프트:
+Use case: compositing / identity-preserve. Edit the supplied square Korean blog thumbnail.
+Input image 1 is the edit target: Hwang Yunseong singing in a beige jacket on a blue concert backdrop with bold Korean copy.
+Input image 2 is supporting photographic material from MBN: crop ONLY the man on the LEFT in the BLUE shirt (Lee Chanwon). Do NOT use the man in white or any other person.
+Requested change: Recompose the upper portion so Hwang Yunseong is clearly visible on the LEFT, still with his original unobscured face, beige jacket and microphone. Add a substantial photographic cutout of the blue-shirted Lee Chanwon on the RIGHT directly beside him, using input 2's actual hairstyle, pose and blue shirt. Cover ONLY Lee Chanwon's face with a conspicuous coarse square pixel MOSAIC, covering eyes, nose, mouth and face contour enough that facial details are unreadable. Preserve recognizable hair shape, blue shirt, and body outside the mosaic. This is a playful hidden-friend reveal, not a crime or scandal. Clearly an editorial photo collage of different settings, not a fabricated picture of them physically singing together. Remove source screenshot captions and logos from the supporting crop.
+Preserve the existing square blue backdrop, energetic navy brushstroke typography, yellow-white-red high contrast, and these exact three Korean lines:
+"트롯남녀 데스매치"
+"황윤성의 친구는"
+"누구?"
+Keep the text large, correctly spelled and fully inside the frame with generous edge padding. Do not write Lee Chanwon's name anywhere; keep the answer hidden. One modest question mark near the mosaicked person is acceptable. Avoid extra people, speech bubbles, fabricated quotes, alarmist accusations, tiny illegible lettering. Final opaque square high-resolution Korean entertainment blog thumbnail.

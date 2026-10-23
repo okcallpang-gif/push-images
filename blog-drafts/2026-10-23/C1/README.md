@@ -3,5 +3,7 @@
 - [메모장 원고](draft.txt)
 - [사진 폴더](images)
 - [이미지 설명과 출처](captions.txt)
+- [썸네일 PNG 다운로드](https://github.com/okcallpang-gif/push-images/raw/refs/heads/main/blog-drafts/2026-10-23/C1/thumbnail.png)
+- [썸네일 제작·출처 표기](thumbnail-caption.txt)
 
 사진은 본문 소제목 순서대로 01~05입니다.

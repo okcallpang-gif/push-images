@@ -1,0 +1,35 @@
+﻿01.jpg
+가요무대에서 노래하는 성리, 과거 방송 자료사진 · 출처: KBS 홈페이지
+확인 페이지: https://vod.kbs.co.kr/index.html?broadcast_complete_yn=N&contents_id=K01_PS-2026077230-01-000_MFSC10&program_code=T2000-0113&program_id=PS-2026077230-01-000&section_code=04&section_id=10767&sname=vod&source=smr&stype=vod
+사진 원주소: https://mediafactory.play.kbs.co.kr/clip/2026/07/27/6a67605897e0adefd83ddc6b/thumbnail/6a67605897e0adefd83ddc6b_0_1785160000806.jpg
+SHA256: 777e3a104a57dcc331e9900678413e0b52e0a3115fba1e8a9babf66cf507db7e
+
+02.jpg
+전설 어워즈의 게임에 함께한 출연진과 양세형 · 출처: MBN
+확인 페이지: https://www.trotnews.co.kr/article/3741
+사진 원주소: https://www.trotnews.co.kr/storage/images/2610/2610276adffa8664631.jpeg
+SHA256: f29c4d96b048b1bf0d267e2e0dc6fe9870e2a309dfd2f361497b1fc1b522f1a0
+
+03.jpg
+심사석에 함께한 정수라와 조항조 · 출처: MBN
+확인 페이지: https://www.trotnews.co.kr/article/3741
+사진 원주소: https://www.trotnews.co.kr/storage/images/2610/2610276adffa5b7759d.jpeg
+SHA256: 144faeb684dac161a206a4220d7ea3fbab71e7ab6ae6e3db98d2cd29141b3c02
+
+04.jpg
+전설의 사내 TOP7 공식 홍보 자료사진 · 출처: MBN 홈페이지
+확인 페이지: https://www.mbn.co.kr/vod/programMain/1035
+사진 원주소: https://img.mbn.co.kr/program/1035/2026/07/07/178341462111.jpg
+SHA256: f1aa9e78f259ede98e368fac965052585359d0743934c83fe0d36e290957fa70
+
+05.jpg
+성리와 양세형의 플러팅 게임 예고 장면 · 출처: MBN
+확인 페이지: https://www.trotnews.co.kr/article/3741
+사진 원주소: https://www.trotnews.co.kr/storage/images/2610/2610276adffa4f3f376.jpeg
+SHA256: 04e865667925273160210b717017f7ecc3ac1e7bdbc36dacd048ccde699a68da
+
+06.jpg
+전설의 사내 성리 무대 공식 썸네일, 과거 방송 자료 · 출처: MBN Entertainment 공식 유튜브
+확인 페이지: https://www.youtube.com/watch?v=NarWE4SvXVI
+사진 원주소: https://i.ytimg.com/vi/NarWE4SvXVI/maxresdefault.jpg
+SHA256: b4c491dae6a9ba9b9f29aaa73ead3fc6af9892f8b41d9094e3891e9a2b440605
